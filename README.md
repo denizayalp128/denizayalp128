@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm [Deniz AYALP] 👋
 
-<!--
-**denizayalp128/denizayalp128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 16-year-old student (EU)  
+💻 Learning Python & Computer Science  
+🤖 Future goal: AI / Software Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 About Me
+I am currently building my programming skills step by step.
+I focus on learning by creating small projects and improving them over time.
+
+---
+
+## 🛠️ Skills (Learning)
+- Python 🐍 (beginner)
+- Problem solving
+- Git & GitHub
+- Basic algorithms
+
+---
+
+## 📂 Projects
+- Menu Program (first Python project)
+- More projects coming soon...
+
+---
+
+## 🎯 Goals
+- Build strong programming fundamentals
+- Learn data structures and algorithms
+- Move into AI / machine learning in the future
+- Apply to strong EU universities (e.g. Finland)
+
+---
+
+## 📈 Learning Philosophy
+I learn by building small projects, improving them over time, and documenting my progress.
+
+---
+
+⭐ Always improving step by step
