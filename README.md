@@ -1,6 +1,6 @@
 # Hi, I'm Deniz AYALP 👋
 
-🎓 16-year-old student (EU)  
+🎓 16 year old student (EU)  
 💻 Learning Python & Computer Science  
 🤖 Future goal: AI / Software Engineering
 
