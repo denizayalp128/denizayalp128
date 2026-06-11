@@ -1,4 +1,4 @@
-# Hi, I'm [Deniz AYALP] 👋
+# Hi, I'm Deniz AYALP 👋
 
 🎓 16-year-old student (EU)  
 💻 Learning Python & Computer Science  
